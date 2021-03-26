@@ -6,7 +6,7 @@ Simple Hacks for Google Colaboratory to boost your productivity and help you to 
 Here is a brief about them all:
 
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
+## [Colab RDP](Colab_RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
 
 Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it with graphic user interface which can be used in many ways. It give you high end VM for maximum 12 hours which boost your productivity and you can perform heavy task without any worries.
 
